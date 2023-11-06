@@ -1,4 +1,4 @@
-# Random Quote Machine
+# Markdown Previewer
 Instruction: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer.</br>
 Example how it would look: https://markdown-previewer.freecodecamp.rocks/.
 
